@@ -1,5 +1,10 @@
+/* Name Of the Candidate:D.Nazeema
+   Roll No: 204G1A0567
+   Title of the Experiment: CPU Scheduling Using FCFS Algorithm
+   Date of Creation: 16-09-2022
+   Date of Execution: 16-09-2022
+*/
 #include<stdio.h>
-#include<conio.h>
 main()
 {
 int bt[20], wt[20], tat[20], i, n;
